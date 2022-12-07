@@ -1,1 +1,3 @@
-# MyLibraryTest
+# MyLibrary
+
+A description of this package.
