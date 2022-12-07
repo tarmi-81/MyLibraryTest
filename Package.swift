@@ -25,6 +25,6 @@ let package = Package(
             path: "Sources"),
         .testTarget(
             name: "MyLibraryTests",
-            dependencies: ["MyLibrary"]),
+            dependencies: ["MyLibraryTest"]),
     ]
 )
