@@ -9,9 +9,9 @@ import Foundation
 import SwiftUI
 
 @available(iOS 13.0, *)
-struct SwiftUIView: View {
+public struct SwiftUIView: View {
    
-    var body: some View {
+    public var body: some View {
         Text("This is a SwiftUIView from package ")
     }
 }
